@@ -1,0 +1,24 @@
+{
+  "name": "site-update-0.1",
+  "version": "1.0.0",
+  "description": "an update of my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritual-asthma/site-update-0.1.git"
+  },
+  "keywords": [
+    "portfolio",
+    "redesign",
+    "front-end"
+  ],
+  "author": "spiritual-asthma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiritual-asthma/site-update-0.1/issues"
+  },
+  "homepage": "https://github.com/spiritual-asthma/site-update-0.1#readme"
+}
