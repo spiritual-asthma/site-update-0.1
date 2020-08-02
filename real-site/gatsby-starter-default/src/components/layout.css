@@ -662,6 +662,7 @@ h1.tagline{
 .nav li{
   display: inline-block;
   float: right;
+  text-align: left;
 
 }
 

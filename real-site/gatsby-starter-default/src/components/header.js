@@ -7,13 +7,13 @@ const Header = ({ siteTitle }) => (
   <div className="nav">
     <ul>
       <li>
-        <a href="#">Home</a>
+        <a href="#home">Home</a>
       </li>
       <li>
-        <a href="#">Portfolio</a>
+        <a href="#portfolio">Portfolio</a>
       </li>
       <li>
-        <a href="#">Contact</a>
+        <a href="contact">Contact</a>
       </li>
     </ul>
   </div>
